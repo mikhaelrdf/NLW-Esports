@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar]
+[🔗 Clique aqui para acessar] https://mikhaelrdf.github.io/NLW-Esports/
 
 🛠 Tecnologias
 
